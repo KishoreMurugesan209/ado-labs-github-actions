@@ -4,12 +4,12 @@
 
 variable "location" {
   type    = string
-  default = "eastus"
+  default = "centralindia"
 }
 
 variable "naming_prefix" {
   type    = string
-  default = "adolabs"
+  default = "testlabs"
 }
 
 variable "asp_tier" {
